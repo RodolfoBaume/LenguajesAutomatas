@@ -15,8 +15,8 @@ Identifica los conceptos de lenguajes formales para comprender las fases de un c
 | Actividad                                                             | Fecha       | %  |
 | --------------------------------------------------------------------- | ----------- | -- |
 | [Tarea 1.1](https://github.com/RodolfoBaume/LenguajesAutomatas/issues/1) | 1 de marzo  | 15 |
-| [Tarea 1.2](https://github.com/RodolfoBaume/LenguajesAutomatas/issues/2) | 4 de marzo  | 15 |
-| Tarea 1.3                                                             | 6 de marzo  | 15 |
+| [Tarea 1.2](https://github.com/RodolfoBaume/LenguajesAutomatas/issues/2) | 6 de marzo  | 15 |
+| [Tarea 1.3](https://github.com/RodolfoBaume/LenguajesAutomatas/issues/3)                                                            | 8 de marzo  | 15 |
 | Examen                                                                | 11 de marzo | 45 |
 | Participación y Asistencia                                           |             | 10 |
 
