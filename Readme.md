@@ -6,10 +6,12 @@ Define, diseña y programa las fases del analizador léxico y sintáctico de un 
 
 ## Temas:
 
+
+## **Aviso:** Examen Tema 1 en el **Aula Y1**
+
 | Tema                                                                     | Periodo                     | Examen      |
 | ------------------------------------------------------------------------ | --------------------------- | ----------- |
 | [Tema 1. Introducción a la Teoría de Lenguajes Formales.](Tema1/tema1.md) | 19 de Febrero al 8 de Marzo | 12 de Marzo |
-# Examen Tema 1 en el Aula Y1
 | Tema 2. Expresiones Regulares.                                           | 11 de marzo al 12 de Abril  | 16 de Abril |
 | Tema 3. Autómatas Finitos.                                              | 15 al 26 de Abril           | 30 de Abril |
 | Tema 4. Análisis Léxico.                                               | 29 de abril al 17 de Mayo   | 28 de Mayo  |
