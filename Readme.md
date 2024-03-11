@@ -7,7 +7,7 @@ Define, diseña y programa las fases del analizador léxico y sintáctico de un 
 ## Temas:
 
 
-## **Aviso:** Examen Tema 1 en el **Aula Y1**
+## **Aviso:** Examen Tema 1 en el **Aula Y1**, martes 12 de marzo 13 hrs.
 
 | Tema                                                                     | Periodo                     | Examen      |
 | ------------------------------------------------------------------------ | --------------------------- | ----------- |
