@@ -4,10 +4,13 @@
 ## Competencia Específica :
 
 Crea y reconoce Expresiones Regulares para solucionar problemas del entorno.
+---
 
 [2.1. Definición formal de una ER.](Tema2\2_1.md)
+
 [2.2. Diseño de ER.](Tema2\2_1.md)
-[2.3. Aplicaciones en problemas reales.]()
+
+2.3. Aplicaciones en problemas reales.
 
 ## Actividades
 
