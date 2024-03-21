@@ -12,6 +12,8 @@ Crea y reconoce Expresiones Regulares para solucionar problemas del entorno.
 
 2.3. Aplicaciones en problemas reales.
 
+[Practicas](Tema2/Practica.ipynb)
+
 ## Actividades
 
 | Actividad                                                             | Fecha       | %  |
