@@ -14,6 +14,10 @@ Crea y reconoce Expresiones Regulares para solucionar problemas del entorno.
 
 [Practicas](Tema2/Practica.ipynb)
 
+Datos
+
+Referencia Exptresiones Regulares
+
 ## Actividades
 
 | Actividad                                                             | Fecha       | %  |
