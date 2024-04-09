@@ -14,9 +14,9 @@ Crea y reconoce Expresiones Regulares para solucionar problemas del entorno.
 
 [Practicas](Tema2/Practica.ipynb)
 
-Datos
+[Datos](Tema2/Datos.txt)
 
-Referencia Exptresiones Regulares
+[Referencia Expresiones Regulares](Tema2/Expresiones_Regulares.txt)
 
 ## Actividades
 
