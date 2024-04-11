@@ -23,3 +23,6 @@ Crea y reconoce Expresiones Regulares para solucionar problemas del entorno.
 | Actividad                                                             | Fecha       | %  |
 | --------------------------------------------------------------------- | ----------- | -- |
 | [Tarea 2.1](https://github.com/RodolfoBaume/LenguajesAutomatas/issues/6) | 19 de marzo | 15 |
+| [Tarea 2.2](https://github.com/RodolfoBaume/LenguajesAutomatas/issues/7) | 16 de abril | 30 |
+| Examen | 16 de abril | 45 |
+| Participación y Asistencia |  | 10 |
