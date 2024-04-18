@@ -6,7 +6,7 @@
 Crea y reconoce autómatas finitos en un lenguaje de programación para la solución de un problema.
 
 
-[3.1 Conceptos: Definición y Clasificación de Autómata Finito (AF).](Tema3/Tema3/3_1.md)
+[3.1 Conceptos: Definición y Clasificación de Autómata Finito (AF).](Tema3/3_1.md)
 
 3.2 Conversión de un Autómata Finito No Determinista (AFND) a Autómata Finito Determinista (AFD).
 
