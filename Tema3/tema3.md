@@ -22,4 +22,5 @@ Prácticas
 
 | Actividad | Fecha       | % |
 | --------- | ----------- | - |
+| [Tarea 3.1](https://github.com/RodolfoBaume/LenguajesAutomatas/issues/9)    | 23 de Abril |   |
 | Examen    | 29 de Abril |   |
