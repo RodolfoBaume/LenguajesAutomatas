@@ -25,4 +25,8 @@ Prácticas
 
 | Actividad | Fecha | %  |
 | --------- | ----- | -- |
-| Examen    | Mayo  | 45 |
+| Tabla de Tokens para Analizador Léxico |  | 10 |
+| Documentación ER y AF para Analizador Léxico |  | 15 |
+| Proyecto Analizador Léxico |  | 30 |
+| Examen    | Mayo  | 35 |
+| Participación y Asistencia |  | 10 |
