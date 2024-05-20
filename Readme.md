@@ -14,7 +14,7 @@ Define, diseña y programa las fases del analizador léxico y sintáctico de un 
 | [Tema 3. Autómatas Finitos.](Tema3/tema3.md)                                              | 15 al 26 de Abril           | 09 de Mayo |
 | [Tema 4. Análisis Léxico.](Tema4/tema4.md)                                               | 07 al 17 de Mayo   | 17 de Mayo  |
 | [Tema 5. Análisis Sintáctico.](Tema5/tema5.md)                                           | 20 al 31 de Mayo   | 31 de Mayo |
-| Tema 6. Máquinas de Turing.                                             | 03 al 14 de Junio           | 14 de Junio |
+| [Tema 6. Máquinas de Turing.](Tema6/tema6.md)                                        | 03 al 14 de Junio           | 14 de Junio |
 | 2a Oportunidad                                                           |                             | 18 de Junio |
 
 
