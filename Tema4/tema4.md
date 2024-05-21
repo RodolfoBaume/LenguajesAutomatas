@@ -30,3 +30,8 @@ Prácticas
 | [Tarea 4.2 Proyecto Analizador Léxico ](https://github.com/RodolfoBaume/LenguajesAutomatas/issues/13) | 16 de mayo | 30 |
 | Examen    | 17 Mayo  | 35 |
 | Participación y Asistencia |  | 10 |
+
+
+url Examen
+
+[https://forms.gle/JFB4ZxKtkGcFqzrH7](https://forms.gle/JFB4ZxKtkGcFqzrH7)
