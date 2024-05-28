@@ -25,14 +25,7 @@ Construye un analizador sintáctico a partir de un lenguaje de programación.
 
 [5.10 Generadores de analizadores sintácticos](tema5/5_10.md)
 
-## Actividades
 
-| Actividad                   | Fecha      | %  |
-| --------------------------- | ---------- | -- |
-|                             |            |    |
-| Tarea                       |            | 15 |
-| Examen                      | 31 de mayo | 45 |
-| Participación y Asistencia |            | 10 |
 
 ## Actividades
 
