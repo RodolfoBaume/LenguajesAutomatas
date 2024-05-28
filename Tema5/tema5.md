@@ -33,3 +33,12 @@ Construye un analizador sintáctico a partir de un lenguaje de programación.
 | Tarea                       |            | 15 |
 | Examen                      | 31 de mayo | 45 |
 | Participación y Asistencia |            | 10 |
+
+## Actividades
+
+| Actividad | Fecha | %  |
+| --------- | ----- | -- |
+| [Tarea 5.1 Tabla de Tokens para Analizador Léxico ](https://github.com/RodolfoBaume/LenguajesAutomatas/issues/14)  | 28 de Mayo | 15 |
+| [Tarea 5.2 Proyecto Analizador Sintáctico ](https://github.com/RodolfoBaume/LenguajesAutomatas/issues/15) | 30 de mayo | 40 |
+| Examen    | 31 Mayo  | 35 |
+| Participación y Asistencia |  | 10 |
