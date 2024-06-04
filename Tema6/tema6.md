@@ -14,7 +14,7 @@ Actividades
 
 | Actividad                   | Fecha | %  |
 | --------------------------- | ----- | -- |
-| [6.1 Mapa Conceptual de Máquinas de Turing] (https://github.com/RodolfoBaume/LenguajesAutomatas/issues/16)| junio |  20  |
-| [6.2 Comentarios película "The Imitation Game"] (https://github.com/RodolfoBaume/LenguajesAutomatas/issues/17) | junio | 35 |
+| [6.1 Mapa Conceptual de Máquinas de Turing](https://github.com/RodolfoBaume/LenguajesAutomatas/issues/16)| junio |  20  |
+| [6.2 Comentarios película "The Imitation Game"](https://github.com/RodolfoBaume/LenguajesAutomatas/issues/17) | junio | 35 |
 | Examen                      | 13 junio | 35 |
 | Participación y Asistencia |       | 10 |
