@@ -18,3 +18,5 @@ Actividades
 | [6.2 Comentarios película "The Imitation Game"](https://github.com/RodolfoBaume/LenguajesAutomatas/issues/17) | 11 de junio | 20 |
 | Examen                      | 13 de junio | 40 |
 | Participación y Asistencia |       | 10 |
+
+[URL Examen](https://forms.gle/PDz14dfScrX4Tfn66)
