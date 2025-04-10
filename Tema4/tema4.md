@@ -32,6 +32,4 @@ Prácticas
 | Participación y Asistencia |  | 10 |
 
 
-url Examen
 
-[https://forms.gle/JFB4ZxKtkGcFqzrH7](https://forms.gle/JFB4ZxKtkGcFqzrH7)
