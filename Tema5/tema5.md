@@ -35,7 +35,3 @@ Construye un analizador sintáctico a partir de un lenguaje de programación.
 | Examen    | 31 Mayo  | 35 |
 | Participación y Asistencia |  | 10 |
 
-
-URL Examen
-
-https://forms.gle/95T51QxmB4G3oD23A
