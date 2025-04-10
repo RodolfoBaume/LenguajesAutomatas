@@ -19,4 +19,3 @@ Actividades
 | Examen                      | 13 de junio | 40 |
 | Participación y Asistencia |       | 10 |
 
-[URL Examen](https://forms.gle/PDz14dfScrX4Tfn66)
