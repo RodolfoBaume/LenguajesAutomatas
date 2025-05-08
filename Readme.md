@@ -7,16 +7,14 @@ Define, diseña y programa las fases del analizador léxico y sintáctico de un 
 ## Temas:
 
 
-| Tema                                                                     | Periodo                     | Examen      |
-| ------------------------------------------------------------------------ | --------------------------- | ----------- |
-| [Tema 1. Introducción a la Teoría de Lenguajes Formales.](Tema1/tema1.md) | 19 de Febrero al 8 de Marzo | 12 de Marzo |
-| [Tema 2. Expresiones Regulares.](Tema2/tema2.md)                          | 11 de marzo al 12 de Abril  | 16 de Abril |
-| [Tema 3. Autómatas Finitos.](Tema3/tema3.md)                              | 15 al 26 de Abril           | 09 de Mayo |
-| [Tema 4. Análisis Léxico.](Tema4/tema4.md)                                | 07 al 17 de Mayo   | 17 de Mayo  |
-| [Tema 5. Análisis Sintáctico.](Tema5/tema5.md)                            | 20 al 31 de Mayo   | 31 de Mayo |
-| [Tema 6. Máquinas de Turing.](Tema6/tema6.md)                             | 03 al 14 de Junio           | 14 de Junio |
-| 2a Oportunidad        Unidades 1, 2                                       |                             | 14 de Junio |
-| 2a Oportunidad        Unidades 3, 4, 5, 6                                 |                             | 18 de Junio |
+| Tema                                                                     | 
+| ------------------------------------------------------------------------ | 
+| [Tema 1. Introducción a la Teoría de Lenguajes Formales.](Tema1/tema1.md) | 
+| [Tema 2. Expresiones Regulares.](Tema2/tema2.md)                          | 
+| [Tema 3. Autómatas Finitos.](Tema3/tema3.md)                              | 
+| [Tema 4. Análisis Léxico.](Tema4/tema4.md)                                | 
+| [Tema 5. Análisis Sintáctico.](Tema5/tema5.md)                            | 
+| [Tema 6. Máquinas de Turing.](Tema6/tema6.md)                             | 
 
 
 ## Bibliografia:
