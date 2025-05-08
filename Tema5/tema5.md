@@ -26,12 +26,3 @@ Construye un analizador sintáctico a partir de un lenguaje de programación.
 [5.10 Generadores de analizadores sintácticos](tema5/5_10.md)
 
 
-## Actividades
-
-| Actividad | Fecha | %  |
-| --------- | ----- | -- |
-| [Tarea 5.1 Requerimiento de la Gramática ](https://github.com/RodolfoBaume/LenguajesAutomatas/issues/14)  | 28 de Mayo | 15 |
-| [Tarea 5.2 Proyecto Analizador Sintáctico ](https://github.com/RodolfoBaume/LenguajesAutomatas/issues/15) | 30 de mayo | 40 |
-| Examen    | 31 Mayo  | 35 |
-| Participación y Asistencia |  | 10 |
-
